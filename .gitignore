@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled output
+/bin/
+/target/
+/out/
+
+# Dependency directories
+/lib/
+/node_modules/
+/bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
