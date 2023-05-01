@@ -13,9 +13,9 @@ categories: 大数据
 
 ## 正文
 
-![image-20230430170342489](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430170342489.png)
+![image-20230501102605329](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102605329.png)
 
-![image-20230430165634004](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430165634004.png)
+![image-20230501102614581](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102614581.png)
 
 # Flink   JobManager 
 
@@ -64,7 +64,7 @@ Flink 支持多种状态后端，用于存储 Checkpoint 的状态数据。常�
 
 总之，Checkpoint 是 Flink 中的一种故障恢复机制，通过定期保存作业的状态快照来确保作业在发生故障时能够从最近的一致状态恢复。Checkpoint 涉及到触发 Checkpoint、状态存储、状态后端、水印和事件时间以及故障恢复等关键概念。
 
-![image-20230430201732622](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430201732622.png)
+![image-20230501102624354](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102624354.png)
 
 # RM
 
@@ -76,6 +76,6 @@ Flink 支持多种状态后端，用于存储 Checkpoint 的状态数据。常�
 
 总之，RM（ResourceManager）是分布式计算领域中负责管理计算资源的组件。对于大规模数据处理框架，资源管理器是一个关键组件，确保了作业在集群中的高效执行。
 
-![image-20230430210440434](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430210440434.png)
+![image-20230501102630519](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102630519.png)
 
-![image-20230430213447992](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430213447992.png)
+![image-20230501102639162](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102639162.png)

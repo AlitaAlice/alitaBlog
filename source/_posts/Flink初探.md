@@ -13,13 +13,15 @@ categories: 大数据
 
 ## 正文
 
-![image-20230430163952454](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430163952454.png)
 
-![image-20230430163946052](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430163946052.png)
+
+![image-20230501102424386](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102424386.png)
+
+![image-20230501102441377](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102441377.png)
 
 ![image-20230430163938350](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430163938350.png)
 
-![image-20230430163930297](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430163930297.png)
+![image-20230501102454656](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102454656.png)
 
 
 
@@ -35,9 +37,9 @@ Flink中常见的算子可以分为以下几类：
 
 
 
-![image-20230430164128316](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430164128316.png)
+![image-20230501102504590](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102504590.png)
 
-![image-20230430164301541](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430164301541.png)
+![image-20230501102515322](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102515322.png)
 
 # Flink的序列化
 
