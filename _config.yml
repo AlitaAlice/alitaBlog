@@ -152,5 +152,8 @@ search:
   path: ./public/search.xml
   field: post
   format: html
+  content: true
   limit: 10000
-
+# 本地搜索
+local_search:
+  enable: true
