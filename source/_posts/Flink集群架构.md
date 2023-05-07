@@ -79,3 +79,7 @@ Flink 支持多种状态后端，用于存储 Checkpoint 的状态数据。常�
 ![image-20230501102630519](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102630519.png)
 
 ![image-20230501102639162](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102639162.png)
+
+# Flink in K8S
+
+![image-20230501200302369](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501200302369.png)
