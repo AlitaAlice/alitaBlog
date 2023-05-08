@@ -19,7 +19,7 @@ categories: 大数据
 
 ![image-20230501102441377](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102441377.png)
 
-![image-20230430163938350](https://gitee.com/zhangxilong0115/img/raw/master/img/image-20230430163938350.png)
+![image-20230507161315751](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230507161315751.png)
 
 ![image-20230501102454656](https://cdn.jsdelivr.net/gh/AlitaAlice/image/img/image-20230501102454656.png)
 
