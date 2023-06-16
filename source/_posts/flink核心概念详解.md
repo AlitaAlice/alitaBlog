@@ -1,5 +1,5 @@
 ---
-title:  DataFlowModel及DataStream Api
+title: flink核心概念详解
 date: 2023-05-01 20:08:27
 tags:
 categories:
@@ -7,7 +7,7 @@ categories:
 
 ## 概述
 
-> 本章介绍
+> 本章介绍flink核心概念详解
 
 <!--more-->
 
